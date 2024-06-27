@@ -7,7 +7,13 @@
 
   2. Перенес данные в Excel
 
+
+![pasted data](https://github.com/farid-ismailov/example-project/assets/168868222/f4e00261-0312-49c0-9d89-02a3877ac647)
+
 Преобразовал, очистил, изменил с помощью формул
+
+
+![changed data](https://github.com/farid-ismailov/example-project/assets/168868222/29053441-30f8-49be-84a2-b54056155541)
 
   3. Перенес в sql
 
